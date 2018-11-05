@@ -6,7 +6,7 @@ a side-note : would it be possible to make a custom web-component that is called
 
 <math>3x+2y</math>
 
- => $3x+2y$
+=> $3x+2y$
 
 and get a beautifully rendered equation out of it???? I feel like that would be possible.
 
@@ -22,4 +22,4 @@ so, incidentally, there's a mathjax-node library that could possibly be used to 
 
 [Content Workflow Using Github And Markdown - Portent](https://www.portent.com/blog/content-strategy/content-with-github-markdown.htm)
 
-hmmm.
+hmmm. aaaaahhhhhh.
