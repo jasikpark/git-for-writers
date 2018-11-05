@@ -21,5 +21,3 @@ so, incidentally, there's a mathjax-node library that could possibly be used to 
 [Git for writing scientific papers and theses | Git2Go - The Git client for iOS you always wanted](https://git2go.com/blog/2016/03/30/Git-for-writing-scientific-papers-and-theses.html)
 
 [Content Workflow Using Github And Markdown - Portent](https://www.portent.com/blog/content-strategy/content-with-github-markdown.htm)
-
-hmmm. aaaaahhhhhh. let's test out using atom + git-plus for commit message editing.
