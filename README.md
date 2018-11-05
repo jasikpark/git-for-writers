@@ -22,4 +22,4 @@ so, incidentally, there's a mathjax-node library that could possibly be used to 
 
 [Content Workflow Using Github And Markdown - Portent](https://www.portent.com/blog/content-strategy/content-with-github-markdown.htm)
 
-hmmm. aaaaahhhhhh.
+hmmm. aaaaahhhhhh. let's test out using atom + git-plus for commit message editing.
