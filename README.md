@@ -21,3 +21,7 @@ so, incidentally, there's a mathjax-node library that could possibly be used to 
 [Git for writing scientific papers and theses | Git2Go - The Git client for iOS you always wanted](https://git2go.com/blog/2016/03/30/Git-for-writing-scientific-papers-and-theses.html)
 
 [Content Workflow Using Github And Markdown - Portent](https://www.portent.com/blog/content-strategy/content-with-github-markdown.htm)
+
+[made by loren.](http://www.madebyloren.com/posts/github-for-writers)
+
+[Versioned Writing · GitHub](https://gist.github.com/jsvine/2902075)
